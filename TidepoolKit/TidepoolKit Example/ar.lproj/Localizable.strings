@@ -1,0 +1,6 @@
+/* The title of the OK button in the error alert */
+"OK" = "موافق";
+
+/* The title for the header of the status section */
+"Status" = "الحالة";
+

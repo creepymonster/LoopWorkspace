@@ -1,0 +1,12 @@
+/* Alert title confirming close of Tidepool Service view */
+"Are you sure?" = "Emin misiniz?";
+
+/* Alert button confirming close of Tidepool Service view */
+"End" = "Son";
+
+/* Tidepool login environment action sheet title */
+"Environment" = "Çevre";
+
+/* Tidepool login button title */
+"Login" = "Oturum açma";
+

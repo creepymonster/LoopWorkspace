@@ -1,0 +1,47 @@
+/* The default localized description of the network error */
+"A network error occurred." = "Wystąpił błąd sieci.";
+
+/* The default localized description of the request email not verified error */
+"The email is not verified." = "Adres e-mail nie został zweryfikowany.";
+
+/* The default localized description of the response missing JSON error */
+"The request returned an empty JSON response." = "Żądanie zwróciło pustą odpowiedź JSON.";
+
+/* The default localized description of the response malformed JSON error */
+"The request returned an invalid JSON response." = "Żądanie było nieprawidłowe.";
+
+/* The default localized description of the response malformed data error */
+"The request returned an invalid response." = "Żądanie zwróciło nieprawidłową odpowiedź.";
+
+/* The default localized description of the response not authenticated error */
+"The request returned an unauthenticated response." = "Żądanie zwróciło nieuwierzytelnioną odpowiedź.";
+
+/* The default localized description of the response unexpected JSON error */
+"The request returned an unexpected JSON response." = "Żądanie zwróciło nieoczekiwaną odpowiedź JSON.";
+
+/* The default localized description of the response unexpected status code error */
+"The request returned an unexpected response status code." = "Zadanie odrzucone. Błąd odpowiedzi.";
+
+/* The default localized description of the response unexpected error */
+"The request returned an unexpected response." = "Żądanie zwróciło nieoczekiwaną odpowiedź.";
+
+/* The default localized description of the request invalid error
+   The default localized description of the request malformed error
+   The default localized description of the request malformed JSON error */
+"The request was invalid." = "Żądanie było nieprawidłowe.";
+
+/* The default localized description of the request not authenticated error */
+"The request was not authenticated." = "Żądanie nie zostało uwierzytelnione.";
+
+/* The default localized description of the request not authorized error */
+"The request was not authorized." = "Żądanie nie zostało autoryzowane.";
+
+/* The default localized description of the request resource not found error */
+"The requested resource was not found." = "Żądany zasób nie został znaleziony.";
+
+/* The default localized description of the session missing error */
+"The session is missing." = "Brak sesji.";
+
+/* The default localized description of the request terms of service not accepted error */
+"The Terms of Service are not accepted." = "Warunki korzystania z usługi nie są akceptowane.";
+

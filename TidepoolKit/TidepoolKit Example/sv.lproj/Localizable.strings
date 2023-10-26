@@ -1,0 +1,18 @@
+/* The default status label text */
+"-" = "-";
+
+/* The title of the error alert */
+"Error" = "Fel";
+
+/* The text label of the authentication login cell */
+"Login" = "Logga in";
+
+/* The text label of the authentication logout cell */
+"Logout" = "Logga ut";
+
+/* The title of the OK button in the error alert */
+"OK" = "OK";
+
+/* The title for the header of the status section */
+"Status" = "Status";
+

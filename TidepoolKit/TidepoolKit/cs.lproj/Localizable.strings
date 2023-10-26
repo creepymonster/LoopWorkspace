@@ -1,0 +1,6 @@
+/* The default localized description of the request resource not found error */
+"The requested resource was not found." = "Požadovaný zdroj nebyl nalezen.";
+
+/* The default localized description of the session missing error */
+"The session is missing." = "Relace chybí.";
+

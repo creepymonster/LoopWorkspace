@@ -1,0 +1,47 @@
+/* The default localized description of the network error */
+"A network error occurred." = "Det oppstod en nettverksfeil.";
+
+/* The default localized description of the request email not verified error */
+"The email is not verified." = "E-post er ikke bekreftet.";
+
+/* The default localized description of the response missing JSON error */
+"The request returned an empty JSON response." = "Forespørselen ga en tom JSON-respons.";
+
+/* The default localized description of the response malformed JSON error */
+"The request returned an invalid JSON response." = "Forespørselen ga en ugyldig JSON-respons.";
+
+/* The default localized description of the response malformed data error */
+"The request returned an invalid response." = "Forespørselen ga en ugyldig respons.";
+
+/* The default localized description of the response not authenticated error */
+"The request returned an unauthenticated response." = "Forespørselen ga en uautentisert respons.";
+
+/* The default localized description of the response unexpected JSON error */
+"The request returned an unexpected JSON response." = "Forespørselen ga en uventet JSON-respons.";
+
+/* The default localized description of the response unexpected status code error */
+"The request returned an unexpected response status code." = "Forespørselen ga en uventet respons-statuskode.";
+
+/* The default localized description of the response unexpected error */
+"The request returned an unexpected response." = "Forespørselen ga et uventet svar.";
+
+/* The default localized description of the request invalid error
+   The default localized description of the request malformed error
+   The default localized description of the request malformed JSON error */
+"The request was invalid." = "Ugyldig forespørsel.";
+
+/* The default localized description of the request not authenticated error */
+"The request was not authenticated." = "Forespørselen ble ikke autentisert.";
+
+/* The default localized description of the request not authorized error */
+"The request was not authorized." = "Forespørselen ble ikke autorisert.";
+
+/* The default localized description of the request resource not found error */
+"The requested resource was not found." = "Den forespurte ressursen ble ikke funnet.";
+
+/* The default localized description of the session missing error */
+"The session is missing." = "Sesjonen mangler.";
+
+/* The default localized description of the request terms of service not accepted error */
+"The Terms of Service are not accepted." = "Bruksvilkårene er ikke godtatt.";
+

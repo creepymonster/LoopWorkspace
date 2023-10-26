@@ -1,0 +1,47 @@
+/* The default localized description of the network error */
+"A network error occurred." = "Si è verificato un errore di rete.";
+
+/* The default localized description of the request email not verified error */
+"The email is not verified." = "L'email non è stata verificata.";
+
+/* The default localized description of the response missing JSON error */
+"The request returned an empty JSON response." = "La richiesta ha generato una risposta JSON vuota.";
+
+/* The default localized description of the response malformed JSON error */
+"The request returned an invalid JSON response." = "La richiesta ha restituito una risposta JSON non valida.";
+
+/* The default localized description of the response malformed data error */
+"The request returned an invalid response." = "La richiesta ha restituito una risposta non valida.";
+
+/* The default localized description of the response not authenticated error */
+"The request returned an unauthenticated response." = "La richiesta ha restituito una risposta non autenticata.";
+
+/* The default localized description of the response unexpected JSON error */
+"The request returned an unexpected JSON response." = "La richiesta ha restituito una risposta JSON inattesa.";
+
+/* The default localized description of the response unexpected status code error */
+"The request returned an unexpected response status code." = "La richiesta ha restituito un codice stato inatteso.";
+
+/* The default localized description of the response unexpected error */
+"The request returned an unexpected response." = "La richiesta ha restituito una risposta inattesa";
+
+/* The default localized description of the request invalid error
+   The default localized description of the request malformed error
+   The default localized description of the request malformed JSON error */
+"The request was invalid." = "La richiesta non è valida";
+
+/* The default localized description of the request not authenticated error */
+"The request was not authenticated." = "La richiesta non è stata autenticata";
+
+/* The default localized description of the request not authorized error */
+"The request was not authorized." = "La richiesta non è stata autorizzata";
+
+/* The default localized description of the request resource not found error */
+"The requested resource was not found." = "La risorsa richiesta non è stata trovata";
+
+/* The default localized description of the session missing error */
+"The session is missing." = "Sessione assente";
+
+/* The default localized description of the request terms of service not accepted error */
+"The Terms of Service are not accepted." = "I Termini di Servizio non sono stati accettati.";
+

@@ -1,0 +1,54 @@
+/* The default status label text */
+"-" = "-";
+
+/* The title for the header of the authentication section */
+"Authentication" = "Autentificare";
+
+/* The text label of the create data cell */
+"Create Data" = "Creati datele";
+
+/* The text label of the create data set cell */
+"Create Data Set" = "Creați setul de date";
+
+/* The title for the header of the data set section */
+"Data Set" = "Set de date";
+
+/* The title for the header of the datum section */
+"Datum" = "Dată";
+
+/* The text label of the delete data cell */
+"Delete Data" = "Ștergeți datele";
+
+/* The title of the error alert */
+"Error" = "Eroare";
+
+/* The text label of the get profile cell */
+"Get Profile" = "Obțineți profilul";
+
+/* The text label of the list data cell */
+"List Data" = "Lista date";
+
+/* The text label of the list data sets cell */
+"List Data Sets" = "Listă seturi de date";
+
+/* The text label of the authentication login cell */
+"Login" = "Autentificare";
+
+/* The text label of the authentication logout cell */
+"Logout" = "Deconectare";
+
+/* The title of the OK button in the error alert */
+"OK" = "OK";
+
+/* The title for the header of the profile section */
+"Profile" = "Profil";
+
+/* The text label of the authentication refresh cell */
+"Refresh" = "Reîmprospătare";
+
+/* The title for the header of the status section */
+"Status" = "Stare";
+
+/* The title of the text view controller */
+"Text" = "Text";
+

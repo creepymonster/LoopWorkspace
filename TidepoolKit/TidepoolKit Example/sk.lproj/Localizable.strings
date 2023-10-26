@@ -1,0 +1,54 @@
+/* The default status label text */
+"-" = "-";
+
+/* The title for the header of the authentication section */
+"Authentication" = "Autentifikácia";
+
+/* The text label of the create data cell */
+"Create Data" = "Vytvoriť dáta";
+
+/* The text label of the create data set cell */
+"Create Data Set" = "Vytvoriť súbor dát";
+
+/* The title for the header of the data set section */
+"Data Set" = "Súbor dát";
+
+/* The title for the header of the datum section */
+"Datum" = "Dátum";
+
+/* The text label of the delete data cell */
+"Delete Data" = "Vymazať údaje";
+
+/* The title of the error alert */
+"Error" = "Chyba";
+
+/* The text label of the get profile cell */
+"Get Profile" = "Získať profil";
+
+/* The text label of the list data cell */
+"List Data" = "Zoznam dát";
+
+/* The text label of the list data sets cell */
+"List Data Sets" = "Zoznam súborov dát ";
+
+/* The text label of the authentication login cell */
+"Login" = "Prihlásiť sa";
+
+/* The text label of the authentication logout cell */
+"Logout" = "Odhlásiť sa";
+
+/* The title of the OK button in the error alert */
+"OK" = "OK";
+
+/* The title for the header of the profile section */
+"Profile" = "Profil";
+
+/* The text label of the authentication refresh cell */
+"Refresh" = "Obnoviť";
+
+/* The title for the header of the status section */
+"Status" = "Stav";
+
+/* The title of the text view controller */
+"Text" = "Text";
+

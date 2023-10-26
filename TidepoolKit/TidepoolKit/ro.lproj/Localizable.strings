@@ -1,0 +1,47 @@
+/* The default localized description of the network error */
+"A network error occurred." = "A apărut o eroare de rețea.";
+
+/* The default localized description of the request email not verified error */
+"The email is not verified." = "E-mailul nu este verificat.";
+
+/* The default localized description of the response missing JSON error */
+"The request returned an empty JSON response." = "Solicitarea a returnat un JSON gol.";
+
+/* The default localized description of the response malformed JSON error */
+"The request returned an invalid JSON response." = "Solicitarea a returnat un JSON invalid.";
+
+/* The default localized description of the response malformed data error */
+"The request returned an invalid response." = "Solicitarea a returnat un răspuns invalid.";
+
+/* The default localized description of the response not authenticated error */
+"The request returned an unauthenticated response." = "Solicitarea a returnat eroare de autentificare.";
+
+/* The default localized description of the response unexpected JSON error */
+"The request returned an unexpected JSON response." = "Solicitarea a returnat un JSON neașteptat.";
+
+/* The default localized description of the response unexpected status code error */
+"The request returned an unexpected response status code." = "Solicitarea a returnat un status cod neașteptat.";
+
+/* The default localized description of the response unexpected error */
+"The request returned an unexpected response." = "Solicitarea a returnat un răspuns neașteptat.";
+
+/* The default localized description of the request invalid error
+   The default localized description of the request malformed error
+   The default localized description of the request malformed JSON error */
+"The request was invalid." = "Solicitarea a fost invalidă";
+
+/* The default localized description of the request not authenticated error */
+"The request was not authenticated." = "Solicitarea nu a fost autentificată";
+
+/* The default localized description of the request not authorized error */
+"The request was not authorized." = "Solicitarea nu a fost autorizată";
+
+/* The default localized description of the request resource not found error */
+"The requested resource was not found." = "Resursa solicitată nu a fost găsită";
+
+/* The default localized description of the session missing error */
+"The session is missing." = "Sesiunea lipsește.";
+
+/* The default localized description of the request terms of service not accepted error */
+"The Terms of Service are not accepted." = "Termenii și condițiile nu sunt acceptate.";
+

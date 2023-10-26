@@ -1,0 +1,33 @@
+/* The title of the Nightscout API secret */
+"API Secret" = "API Secret";
+
+/* Button text to cancel Nightscout credential input */
+"Cancel" = "Cancel";
+
+/* Button title to delete a service */
+"Delete Service" = "Delete Service";
+
+/* The placeholder text for the Nightscout site URL */
+"https://mysite.herokuapp.com" = "https://mysite.herokuapp.com";
+
+/* Button text to login on Nightscout CredentialsView */
+"Login" = "Login";
+
+/* No comment provided by engineer. */
+"Logout" = "Logout";
+
+/* No comment provided by engineer. */
+"Nightscout" = "נייטסקאוט";
+
+/* Description of ServiceStatus of checking */
+"OK" = "OK";
+
+/* The default placeholder for required text */
+"Required" = "Required";
+
+/* The title of the Nightscout site URL */
+"Site URL" = "כתובת האתר";
+
+/* No comment provided by engineer. */
+"Status" = "Status";
+

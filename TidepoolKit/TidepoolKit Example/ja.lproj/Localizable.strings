@@ -1,0 +1,12 @@
+/* The default status label text */
+"-" = "-";
+
+/* The title of the error alert */
+"Error" = "エラー";
+
+/* The title of the OK button in the error alert */
+"OK" = "OK";
+
+/* The title for the header of the status section */
+"Status" = "ステータス";
+

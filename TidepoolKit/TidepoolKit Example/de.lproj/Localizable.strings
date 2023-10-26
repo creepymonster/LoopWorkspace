@@ -1,0 +1,54 @@
+/* The default status label text */
+"-" = "-";
+
+/* The title for the header of the authentication section */
+"Authentication" = "Authentifizierung";
+
+/* The text label of the create data cell */
+"Create Data" = "Daten erstellen";
+
+/* The text label of the create data set cell */
+"Create Data Set" = "Datensatz erstellen";
+
+/* The title for the header of the data set section */
+"Data Set" = "Datensatz";
+
+/* The title for the header of the datum section */
+"Datum" = "Datum";
+
+/* The text label of the delete data cell */
+"Delete Data" = "Daten löschen";
+
+/* The title of the error alert */
+"Error" = "Fehler";
+
+/* The text label of the get profile cell */
+"Get Profile" = "Profil abrufen";
+
+/* The text label of the list data cell */
+"List Data" = "Daten auflisten";
+
+/* The text label of the list data sets cell */
+"List Data Sets" = "Datensätze auflisten";
+
+/* The text label of the authentication login cell */
+"Login" = "Einloggen";
+
+/* The text label of the authentication logout cell */
+"Logout" = "Abmelden";
+
+/* The title of the OK button in the error alert */
+"OK" = "OK";
+
+/* The title for the header of the profile section */
+"Profile" = "Profil";
+
+/* The text label of the authentication refresh cell */
+"Refresh" = "Aktualisieren";
+
+/* The title for the header of the status section */
+"Status" = "Status";
+
+/* The title of the text view controller */
+"Text" = "Text";
+

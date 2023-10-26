@@ -1,0 +1,47 @@
+/* The default localized description of the network error */
+"A network error occurred." = "Vyskytla sa chyba siete.";
+
+/* The default localized description of the request email not verified error */
+"The email is not verified." = "E-mail nie je overený.";
+
+/* The default localized description of the response missing JSON error */
+"The request returned an empty JSON response." = "Požiadavka priniesla prázdnu odpoveď JSON.";
+
+/* The default localized description of the response malformed JSON error */
+"The request returned an invalid JSON response." = "Požiadavka priniesla neplatnú odpoveď JSON.";
+
+/* The default localized description of the response malformed data error */
+"The request returned an invalid response." = "Požiadavka priniesla neplatnú odpoveď.";
+
+/* The default localized description of the response not authenticated error */
+"The request returned an unauthenticated response." = "Požiadavka priniesla neoverenú odpoveď.";
+
+/* The default localized description of the response unexpected JSON error */
+"The request returned an unexpected JSON response." = "Požiadavka priniesla neočakávanú odpoveď  JSON.";
+
+/* The default localized description of the response unexpected status code error */
+"The request returned an unexpected response status code." = "Požiadavka priniesla neočakávanú odpoveď stavového kódu.";
+
+/* The default localized description of the response unexpected error */
+"The request returned an unexpected response." = "Žiadosť priniesla neočakávanú odpoveď.";
+
+/* The default localized description of the request invalid error
+   The default localized description of the request malformed error
+   The default localized description of the request malformed JSON error */
+"The request was invalid." = "Žiadosť bola neplatná.";
+
+/* The default localized description of the request not authenticated error */
+"The request was not authenticated." = "Žiadosť nebola overená.";
+
+/* The default localized description of the request not authorized error */
+"The request was not authorized." = "Žiadosť nebola schválená.";
+
+/* The default localized description of the request resource not found error */
+"The requested resource was not found." = "Požadovaný zdroj sa nenašiel.";
+
+/* The default localized description of the session missing error */
+"The session is missing." = "Relácia chýba.";
+
+/* The default localized description of the request terms of service not accepted error */
+"The Terms of Service are not accepted." = "Podmienky služby nie sú akceptované.";
+

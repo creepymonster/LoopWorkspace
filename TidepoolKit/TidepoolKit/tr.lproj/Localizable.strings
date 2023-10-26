@@ -1,0 +1,47 @@
+/* The default localized description of the network error */
+"A network error occurred." = "Bir ağ hatası oluştu.";
+
+/* The default localized description of the request email not verified error */
+"The email is not verified." = "E-posta doğrulanmadı.";
+
+/* The default localized description of the response missing JSON error */
+"The request returned an empty JSON response." = "İstek boş bir JSON yanıtı döndürdü.";
+
+/* The default localized description of the response malformed JSON error */
+"The request returned an invalid JSON response." = "İstek geçersiz bir JSON yanıtı döndürdü.";
+
+/* The default localized description of the response malformed data error */
+"The request returned an invalid response." = "İstek geçersiz bir yanıt döndürdü.";
+
+/* The default localized description of the response not authenticated error */
+"The request returned an unauthenticated response." = "İstek, kimliği doğrulanmamış bir yanıt döndürdü.";
+
+/* The default localized description of the response unexpected JSON error */
+"The request returned an unexpected JSON response." = "İstek beklenmedik bir JSON yanıtı döndürdü.";
+
+/* The default localized description of the response unexpected status code error */
+"The request returned an unexpected response status code." = "İstek beklenmedik bir yanıt durum kodu döndürdü.";
+
+/* The default localized description of the response unexpected error */
+"The request returned an unexpected response." = "İstek beklenmedik bir yanıt döndürdü.";
+
+/* The default localized description of the request invalid error
+   The default localized description of the request malformed error
+   The default localized description of the request malformed JSON error */
+"The request was invalid." = "İstek geçersiz.";
+
+/* The default localized description of the request not authenticated error */
+"The request was not authenticated." = "İsteğin kimliği doğrulanmadı.";
+
+/* The default localized description of the request not authorized error */
+"The request was not authorized." = "İstek yetkilendirilmedi.";
+
+/* The default localized description of the request resource not found error */
+"The requested resource was not found." = "İstenen kaynak bulunamadı.";
+
+/* The default localized description of the session missing error */
+"The session is missing." = "Oturum eksik.";
+
+/* The default localized description of the request terms of service not accepted error */
+"The Terms of Service are not accepted." = "Hizmet Şartları kabul edilmemiştir.";
+
